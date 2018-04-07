@@ -1,0 +1,13 @@
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\ParallelSort.exe.config
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\ParallelSort.exe
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\ParallelSort.pdb
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\obj\Debug\ParallelSort.csprojResolveAssemblyReference.cache
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\obj\Debug\ParallelSort.exe
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\obj\Debug\ParallelSort.pdb
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\mscorlib.dll
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\zh-Hans\mscorlib.resources.dll
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\normidna.nlp
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\normnfc.nlp
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\normnfd.nlp
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\normnfkc.nlp
+D:\English\学术英语\并行排序算法\ParallelSort\ParallelSort\bin\Debug\normnfkd.nlp
